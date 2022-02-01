@@ -1,0 +1,142 @@
+/*css reset CSSDECK.COM
+Blog
+All Tutorials
+Subscribe
+CSS Tutorials
+Eric Meyer’s “Reset CSS” 2.0
+by Joss  –  follow on Twitter here
+One of the pioneers of the CSS Reset method, Eric Meyer, created a Reset stylesheet that is still in use on millions of websites today. Most people use it in its unedited form, despite Meyer’s recommendation against this:
+
+The reset styles given here are intentionally very generic. There isn’t any default color or background set for the body element, for example. I don’t particularly recommend that you just use this in its unaltered state in your own projects. It should be tweaked, edited, extended, and otherwise tuned to match your specific reset baseline. Fill in your preferred colors for the page, links, and so on.
+
+Here’s the code: */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*Share and Enjoy !
+0
+SHARES
+00
+
+SUBSCRIBE
+RSS FeedRSS Feed for Posts
+2021’s most popular CSS Reset scripts, all in one place
+A free resource for web designers and developers. On the homepage, you'll find the most popular CSS Reset scripts to copy/paste, with documentation for each.
+
+LATEST CSS TUTORIALS
+JavaScript and CSS tips for Beginners
+4 Worthy CSS Trends in 2021
+Tips to Shop Safely Online: Why Third-Party Scripts are Dangerous
+5 Advanced CSS techniques to master in 2021
+What’s the connection between CSS and SEO?
+RESET CSS SCRIPTS
+Eric Meyer’s “Reset CSS” 2.0
+HTML5 Doctor CSS Reset
+Tripoli CSS Reset
+‘undohtml.css’ – Tantek Celik
+Universal Selector ‘*’ Reset
+Vanilla CSS Un-Reset
+Yahoo! (YUI 3) Reset CSS
+Normalize.css 1.0
+POPULAR TOPICS
+css(64)
+css3(26)
+javascript(21)
+jquery(21)
+advanced(20)
+basic(15)
+navigation(14)
+intermediate(14)
+:hover(12)
+position(10)
+FACEBOOK COMMUNITY
+
+FEATURED POST
+JavaScript and CSS tips for Beginners
+4 Worthy CSS Trends in 2021
+Tips to Shop Safely Online: Why Third-Party Scripts are Dangerous
+5 Advanced CSS techniques to master in 2021
+What’s the connection between CSS and SEO?
+FROM THE ARCHIVES
+JavaScript and CSS tips for Beginners
+
+In this article, we are going to highlight some programming tips for beginners, but first, we want to say that programming languages are not as easy as you think. Students spend years learning how to program, as well as how [...]
+
+Read Article Read more →
+
+4 Worthy CSS Trends in 2021
+
+Some trends in web design and the use of CSS for presentation come and go. However, worthy trends stick around and get improved over time until they provide excellent usability and other enhancements that site visitors appreciate. Here are four [...]
+
+Read Article Read more →
+
+Tips to Shop Safely Online: Why Third-Party Scripts are Dangerous
+
+Most of us prefer shopping online nowadays to save ourselves from the hassle of going to shops. It is very convenient: you can quickly choose which goods you need with everything at your fingertips.
+
+But do you know that online shopping [...]
+
+Read Article Read more →
+
+5 Advanced CSS techniques to master in 2021
+
+If you are a web developer or learning web development, you should constantly improve your skills. Web development can be fun at times, but it is frustrating if you don’t have the right tools and knowledge. One of the best [...]
+
+Read Article Read more →
+
+What’s the connection between CSS and SEO?
+
+While reading about SEO, you’ve probably wondered how much code you should know. The good news is that you don’t need much programming knowledge to get into good SEO or even tweak your own website to make it more search [...]
+
+Read Article Read more →
+
+All words, images and code copyright © 2010 - 2022 cssdeck.com. All rights reserved.
+About • Contact • Privacy Policy • Cookie Policy
+
+RSS / Email / Twitter:  Twitter */
